@@ -1,7 +1,7 @@
 > Quick note: not all repositories here will be immediately available: I'm currently in the process of redacting identifiable information from the bots, but this will take some time.
 
 # MINGLETON RPG
-> A Discord-based RPG game developed by @zaccomode & @BenSaunders1.
+> A Discord-based RPG game developed by [@zaccomode](https://github.com/zaccomode) & [@BenSaunders1](https://github.com/BenSaunders1).
 
 This is essentially a custom recreation of popular Discord RPG bots that uses our own custom mechanics, items and currency. It was run on the Mingleton Discord server from April-September 2022, and is now open source because it is no longer in active development or usage. 
 The entire RPG was built around a somewhat stable currency known as sussbuccs (internally: Dollars), with other mechanics such as gambling, item purchasing and combat to back it up.
