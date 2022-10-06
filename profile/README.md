@@ -14,17 +14,17 @@ Each bot was then hosted independently and focused on individual aspects of the 
 
 ## Bots
 ### Jimothy (master)
-[Source code](https://github.com/dawson-rp/master-bot) | @zaccomode
+[Source code](https://github.com/dawson-rp/master-bot) | [@zaccomode](https://github.com/zaccomode)
 The master bot for the Mingleton RPG that handled inventory management, profile viewing, factions, etc.
 
 ### Casino Royale (Casino bot)
-[Source code](https://github.com/dawson-rp/casino-bot) | @zaccomode
+[Source code](https://github.com/dawson-rp/casino-bot) | [@zaccomode](https://github.com/zaccomode)
 Used the currency of the Mingleton RPG to create a text-based casino. Featured a coinflip and Blackjack game modes with wagers, etc.
 
 ### Bruh United (Store bot)
-[Source code](https://github.com/dawson-rp/store-bot) | @zaccomode
+[Source code](https://github.com/dawson-rp/store-bot) | [@zaccomode](https://github.com/zaccomode)
 Used Sussbuccs to allow users to purchase randomly-generated items. Items were generated had different types, rarities and statistics that were all randomly generated within defined ranges. A more detailed description of each can be found in the README of the repository.
 
 ### Baunders and Sons (Alternative store bot)
-[Source code] | @BenSaunders1
+[Source code] | [@BenSaunders1](https://github.com/BenSaunders1)
 Another store bot that interacted with the same Items API, but used a different item generation method to produce far more and more varied items.
